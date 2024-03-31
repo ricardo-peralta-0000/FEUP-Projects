@@ -1,0 +1,119 @@
+/*
+     The term content refers to any of the following three entities: 
+     questions, answers or comments
+*/
+/* 
+.content_container button, .comment_container button{
+    width: 90%;
+}
+
+.content_top_container{
+    justify-content: space-between;
+    display:flex;
+    padding: 10px;
+    flex-direction: row;
+}
+
+.question_tittle_container{
+   display: flex;
+   flex-direction: column;
+   border-bottom: 1px solid gray;
+   padding: 2px;
+   width: 100%;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.content_left_container{
+    text-align: center;
+    width: 15%;
+
+} */
+
+.content_user_profile_photo {
+    background-color: rgb(204, 202, 202);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.content_user_profile_photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/* 
+.content_right_container{
+    width: 12%;
+    text-align: center;
+}
+
+.content_top_container div button{
+    top: 50%;
+}
+
+.content_bottom_container{
+    justify-content: space-between;
+    display:flex;
+    padding: 10px;
+    flex-direction: row;
+    border-bottom: solid black 2px;
+}
+
+.content_text_container{
+   padding: 2px;
+   padding-bottom: 0px;
+   width: 100%;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.comment_container{
+    width: 90%;
+    margin-left: auto;
+    box-shadow: 2px 2px 3px rgb(160, 160, 160);    
+}
+
+.comment_container .content_user_profile_photo{
+    width: 80px;
+    height: 80px;
+}
+
+.popup-message {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    z-index: 1000;
+}
+
+
+ */
+
+.question-closed {
+    background-color: #f8d7da; /* Change the background color */
+    color: #721c24; /* Change the text color */
+    border: 1px solid #f5c6cb; /* Add a border if desired */
+    padding: 10px; /* Adjust padding as needed */
+    margin-bottom: 15px; /* Adjust margin as needed */
+    /* Add more styles as per your design */
+    width: 50%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+ /* create answer text area fixed */
+.fixed-height {
+    height: 150px; 
+    resize: none; 
+    overflow-y: auto; 
+}

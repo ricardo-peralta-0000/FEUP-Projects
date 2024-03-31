@@ -1,0 +1,89 @@
+/* .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-header h2 {
+    margin-bottom: 10px;
+}
+*/
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #fff; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); 
+}
+/*
+.profile-details {
+    margin-bottom: 20px;
+}
+
+.detail-section {
+    margin-bottom: 10px;
+}
+
+.detail-section h3 {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.user-activity {
+    display: flex;
+    justify-content: space-between;
+} */
+
+.activity-section {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.activity-section h3 {
+    margin-bottom: 10px;
+}
+
+.activity-item {
+    margin-bottom: 10px;
+}
+
+.activity-item p {
+    margin: 5px 0;
+}
+
+
+.toggle-section {
+    cursor: pointer;
+}
+
+.arrow {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.hidden-content {
+    display: none;
+    margin-top: 10px;
+}
+
+.show-content .hidden-content {
+    display: block;
+}
+/* 
+.question-title {
+    color: blue; 
+}
+
+.your-answer {
+    color: green; 
+}
+
+.your-comment {
+    color: rgb(0, 39, 214); 
+} */

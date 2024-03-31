@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['gestaopedidosmenu_0',['gestaoPedidosMenu',['../class_app.html#a9190f4523fa92d74f80e3a6305eaefb8',1,'App']]],
+  ['getclasscode_1',['getClassCode',['../class_turma.html#ad02c172455e2ee1ea7d764da5b1ce7b6',1,'Turma']]],
+  ['getclasses_2',['getClasses',['../class_u_c.html#aa8ba98b91876d72bbc006f76c32f5f13',1,'UC']]],
+  ['getdesireducclass_3',['getDesiredUcClass',['../class_request.html#aa95da18e580e85d8b6f64c4f94997871',1,'Request']]],
+  ['getendhour_4',['getEndHour',['../class_time_slot.html#a676c307f9b4830083b108c9f9f1d96a0',1,'TimeSlot']]],
+  ['getformerclass_5',['getFormerClass',['../class_parse.html#a24093a2a00683f49b17ed998bb63f309',1,'Parse']]],
+  ['getnumberofpendingrequests_6',['getNumberOfPendingRequests',['../class_parse.html#a6a00d2cfc053b5c12e460db248dc78d9',1,'Parse']]],
+  ['getnumberofstudentsuc_7',['getNumberOfStudentsUc',['../class_parse.html#a50a3814013f9adcfa969c36bf98100ec',1,'Parse']]],
+  ['getnumberofstudentsucclass_8',['getNumberOfStudentsUcClass',['../class_parse.html#ade3c20f2dc79e6ed45151ee4d82645d6',1,'Parse']]],
+  ['getnumstudents_9',['getNumStudents',['../class_turma_schedule.html#a44ac6575fd496757e51b9f22de19f5f1',1,'TurmaSchedule']]],
+  ['getsid_10',['getSID',['../class_student_classes.html#a4f48a84a7b338254d6c279341b7a94d4',1,'StudentClasses']]],
+  ['getslots_11',['getSlots',['../class_turma_schedule.html#a36e23c8cd031fd32542a719a8dc63070',1,'TurmaSchedule']]],
+  ['getstarthour_12',['getStartHour',['../class_time_slot.html#a17b915599b8436f0480491a772d85aea',1,'TimeSlot']]],
+  ['getstudent_13',['getStudent',['../class_request.html#af55b5db4b4bcd5c3c4ea4ce97496016a',1,'Request']]],
+  ['getstudentcode_14',['getStudentCode',['../class_student_classes.html#a5f204ef5ecf9f5390c12bf8f026d1148',1,'StudentClasses']]],
+  ['getstudentname_15',['getStudentName',['../class_student_classes.html#a7050f3d2ba805d4749bd61ad99ba5018',1,'StudentClasses']]],
+  ['getstudents_16',['getStudents',['../class_turma_schedule.html#a26968c6ec73b6aa9f7c46b5bba2f6ef4',1,'TurmaSchedule']]],
+  ['getstudentsbynucs_17',['getStudentsByNUCS',['../class_parse.html#a32f6dc8e2d9cd278b9fec6f58415874b',1,'Parse']]],
+  ['getstudentsbyyear_18',['getStudentsByYear',['../class_parse.html#a184b566c544480d4882c79dc448b2946',1,'Parse']]],
+  ['getturmas_19',['getTurmas',['../class_student_classes.html#a94fa8c02235089e3ab2f8fb23dc30ed8',1,'StudentClasses']]],
+  ['gettype_20',['getType',['../class_time_slot.html#a71f44b115e869d11c0ac316a851bb5e2',1,'TimeSlot']]],
+  ['getuccode_21',['getuccode',['../class_turma.html#a69cd35d653a62b30e84cbd09a51e0081',1,'Turma::getUcCode()'],['../class_u_c.html#a90df38865b38ddcabde7d1cd7a8939d9',1,'UC::getUcCode()']]],
+  ['getucturmas_22',['getUcTurmas',['../class_turma_schedule.html#a61051c49d229baa2035622dcc81a192b',1,'TurmaSchedule']]],
+  ['getweekday_23',['getWeekDay',['../class_time_slot.html#adac20e539eec98b04cc0fe425323674d',1,'TimeSlot']]],
+  ['getyear_24',['getYear',['../class_student_classes.html#a89c2bcac41384af79b195d4f0216c83a',1,'StudentClasses']]]
+];

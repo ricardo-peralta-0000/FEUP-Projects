@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['sameucid_0',['sameUcId',['../class_turma_schedule.html#a140e5229abb0724856efad52afbcbff5',1,'TurmaSchedule']]],
+  ['saveinformation_1',['saveInformation',['../class_app.html#a3849ad0c655f662f2307317649be53aa',1,'App']]],
+  ['schedules_2',['schedules',['../class_parse.html#a74a0985ee97b8eee3cc6467079a7c9f7',1,'Parse']]],
+  ['setclasses_3',['setClasses',['../class_u_c.html#a4d378785a98ece04b8ebd431da3d55c0',1,'UC']]],
+  ['setschedules_4',['setSchedules',['../class_parse.html#ad9543fd857d132694273fcc2a44ca318',1,'Parse']]],
+  ['setuccode_5',['setUcCode',['../class_u_c.html#aaf6f50114c54fb102e07d96c41da8543',1,'UC']]],
+  ['sid_6',['SID',['../class_student_classes.html#a3e0901432da96bf6b236cb9c98191b03',1,'StudentClasses']]],
+  ['sleeptime_7',['sleepTime',['../class_app.html#a5ba5724cb2de36aaf4677c3cd64bf795',1,'App']]],
+  ['slots_8',['slots',['../class_turma_schedule.html#ab9c21175817fdc6807edf28e3ebc9390',1,'TurmaSchedule']]],
+  ['sortingmenu_9',['sortingMenu',['../class_app.html#ad3ed258060c9632e0825803e9418b716',1,'App']]],
+  ['start_5fhour_5f_10',['start_hour_',['../class_time_slot.html#a971f6af945a24fe8a29e68e9898a661c',1,'TimeSlot']]],
+  ['student_11',['student',['../class_request.html#a8475f2db9e2b7596c315faac393ee747',1,'Request']]],
+  ['studentbynucs_12',['studentByNUCS',['../structstudent_by_n_u_c_s.html',1,'']]],
+  ['studentclasses_13',['studentclasses',['../class_student_classes.html#a2a6eb20c491e33f00be8f60556f6085a',1,'StudentClasses::StudentClasses()'],['../class_student_classes.html#af670ec751a1113ae9580cd966330595f',1,'StudentClasses::StudentClasses(const string &amp;id, const string &amp;name)'],['../class_student_classes.html#ac86732a9911a1d7f927ac2bc50ff1276',1,'StudentClasses::StudentClasses(const string &amp;id, const string &amp;name, list&lt; Turma &gt; l)'],['../class_student_classes.html',1,'StudentClasses']]],
+  ['studentclasses_2ecpp_14',['StudentClasses.cpp',['../_student_classes_8cpp.html',1,'']]],
+  ['studentclasses_2eh_15',['StudentClasses.h',['../_student_classes_8h.html',1,'']]],
+  ['studentid_16',['StudentID',['../struct_student_i_d.html',1,'']]],
+  ['students_17',['students',['../class_parse.html#a2c839c6f87dc3ce33cc8c753cde8a192',1,'Parse::students'],['../class_turma_schedule.html#a147d76249a981474c915b63fa488cea2',1,'TurmaSchedule::students']]],
+  ['studentsofuc_18',['studentsOfUc',['../class_parse.html#a2056cd1f1671da59c9acd4dae3be6e12',1,'Parse']]],
+  ['submitchangingrequest_19',['submitChangingRequest',['../class_app.html#a469470c65de1a764e875d0969296e7e6',1,'App']]],
+  ['submitenrollmentrequest_20',['submitEnrollmentRequest',['../class_app.html#aee60e4a13bcb673a368aa4bfd7fadf8a',1,'App']]],
+  ['submitnewrequest_21',['submitNewRequest',['../class_app.html#a2e8d791189a2c12508bacdf376c13f39',1,'App']]],
+  ['submitremovalrequest_22',['submitRemovalRequest',['../class_app.html#a41de34747e15dc3335a58e5c9ce0f142',1,'App']]]
+];
